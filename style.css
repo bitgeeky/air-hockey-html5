@@ -4,6 +4,8 @@ body{
 	font-family:Verdana;
 	background-image: url('http://demo.webstutorial.com/css3-gradient-textures/bodybg.png');
 	background-repeat:repeat;
+                background-color:purple;
+
 }
 
 #wrapper{
@@ -14,6 +16,7 @@ body{
 }
 
 #canvas {
+background-color: lightpink;
     border: 1px solid #888888;
     box-shadow: 0 0 5px #888888;
     float: left;
@@ -22,7 +25,7 @@ body{
 }
 
 #info {
-    background-color: transparent;
+    background-color: red;
     border: 1px solid #888888;
 	border-left:0px;
     border-radius: 0 10px 10px 0;
